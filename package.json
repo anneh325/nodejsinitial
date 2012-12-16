@@ -1,0 +1,17 @@
+{
+  "name": "NodeGDI",
+  "version": "0.0.0",
+  "description": "node server",
+  "main": "nodeServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anneh325/nodejsinitial.git"
+  },
+  "author": "anne",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "31fba598eb7ba7ef785388720e3b4327509d1a70"
+}
